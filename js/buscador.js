@@ -64,7 +64,7 @@ const insertNew = resultId => {
 
 /**
 * eliminar bienes en base de datos
-* @param {int} Descripción del parámetro
+* @param {int} Id bien en base de datos
 */
 const deleteBien = bienId => {
     $.ajax({
