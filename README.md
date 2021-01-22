@@ -17,6 +17,6 @@ ruta=> bd/bd.sql
 
 ## Instalación
 - Ejecutar bd.sql para crear base de datos
-- cambiar parametros de conexion en php/conexion.php (usuario y contraseña de mysql)
+- cambiar parámetros de conexion en php/conexion.php (usuario y contraseña de mysql)
 - Ejecutar comandos:
 	- composer install
